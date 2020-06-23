@@ -1,0 +1,61 @@
+h2 {
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: lighter;
+
+}
+h3 {
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: lighter;
+}
+
+
+body {   
+    text-align: center;
+}
+
+div {
+    background: purple;
+    margin: auto;
+
+}
+header, section, footer, nav, article {
+    display: block;
+}
+header{
+    background: aqua;
+    padding: 10px;
+}
+
+.menu { 
+    background: rgb(27, 13, 221);
+    padding: 10px;
+}
+
+.menu li {
+    list-style: none;
+    padding: 15px;
+    font: bold 20px verdana;
+    display: inline-block;
+}
+
+.seccion p {
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: lighter;
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+
+footer {
+    background: red;
+    padding: 15px;
+}
+
+p { 
+    font-family: cursive;
+}
